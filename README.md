@@ -1,6 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2952,100:1a5276&height=180&section=header&text=Youssouf%20Bechir%20Youssouf&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Supply%20Chain%20%26%20Purchasing%20%7C%20Transport%20Flow%20Management%20%7C%20Paris&descAlignY=60&descColor=85c1e9"/>
+<h1>Youssouf Bechir Youssouf</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/Supply_Chain_%26_Purchasing-0f2952?style=flat-square&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/Transport_Flow_Management-1a5276?style=flat-square&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/Paris%2C_Ile--de--France-2c3e50?style=flat-square&logoColor=white" alt=""/>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssouf-bechir-youssouf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a5276?style=for-the-badge&logo=vercel&logoColor=white)](https://Youssouf55.github.io)
@@ -14,7 +20,7 @@
 
 ## Profile
 
-Supply Chain & Purchasing professional in training, currently completing a 2-year work-study program at U Logistique (Caen) managing 25 to 30 daily transport routes across 35+ retail stores with a service rate consistently above 98%. Background combining rigorous academic training (BUT Management Logistique & Transport, IUT Grand Ouest Normandie) with operational field experience in France, Chad, and international logistics environments. Trilingual: French, Arabic, English.
+Supply Chain & Purchasing professional in training, currently completing a 2-year work-study program at U Logistique (Caen) — managing 25 to 30 daily transport routes across 35+ retail stores with a service rate consistently above 98%. Background combining rigorous academic training (BUT Management Logistique & Transport, IUT Grand Ouest Normandie) with operational field experience in France, Chad, and international logistics environments. Trilingual: French, Arabic, English.
 
 | | |
 |---|---|
@@ -43,7 +49,7 @@ Planning and monitoring of 25 to 30 daily delivery routes (fresh and frozen good
 <details>
 <summary><b>AGIT / UNICEF — Intern, Purchasing & International Supply Chain</b></summary>
 <br>
-Full ownership of purchasing and logistics for 5 UNICEF-funded water drilling projects in the Sudanese refugee reception zone (northern Chad): supplier selection, order placement, and end-to-end delivery tracking. Negotiated procurement of Huawei infrastructure equipment and construction materials within budget constraints. Served as the operational interface between international suppliers, local transporters, and field teams in a demanding multi-stakeholder environment.
+Full ownership of purchasing and logistics for 5 UNICEF-funded water drilling projects in the Sudanese refugee reception zone, northern Chad: supplier selection, order placement, and end-to-end delivery tracking. Negotiated procurement of Huawei infrastructure equipment and construction materials within budget constraints. Served as the operational interface between international suppliers, local transporters, and field teams in a demanding multi-stakeholder environment.
 </details>
 
 ---
@@ -100,7 +106,7 @@ Full ownership of purchasing and logistics for 5 UNICEF-funded water drilling pr
 ## Affiliations
 
 - **IRIS** (Institut de Relations Internationales et Strategiques) — Active member, 2025 – present
-- **Supply Chain+** — Student professional association, events and sector conferences, 2024 – present
+- **Supply Chain+** — Student professional association, sector events and conferences, 2024 – present
 - **UNICEF Paris** — Volunteer, large-scale event logistics coordination, 2023 – present
 
 ---
@@ -109,7 +115,5 @@ Full ownership of purchasing and logistics for 5 UNICEF-funded water drilling pr
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssouf-bechir-youssouf)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-1a5276?style=for-the-badge&logo=vercel&logoColor=white)](https://Youssouf55.github.io)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a5276,50:0f2952,100:0d1117&height=100&section=footer"/>
 
 </div>
