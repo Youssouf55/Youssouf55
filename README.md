@@ -3,16 +3,14 @@
 <h1>Youssouf Bechir Youssouf</h1>
 
 <p>
-  <img src="https://img.shields.io/badge/Supply_Chain_%26_Purchasing-0f2952?style=flat-square&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/Transport_Flow_Management-1a5276?style=flat-square&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/Paris%2C_Ile--de--France-2c3e50?style=flat-square&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/Supply_Chain_%26_Purchasing-0f2952?style=flat-square" alt="Supply Chain & Purchasing"/>
+  <img src="https://img.shields.io/badge/Transport_Flow_Management-1a5276?style=flat-square" alt="Transport Flow Management"/>
+  <img src="https://img.shields.io/badge/Paris%2C_Ile--de--France-2c3e50?style=flat-square" alt="Paris"/>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssouf-bechir-youssouf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a5276?style=for-the-badge&logo=vercel&logoColor=white)](https://Youssouf55.github.io)
 [![Email](https://img.shields.io/badge/Email-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssoufbechirbeni1@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Youssouf55&label=Profile+Views&color=0f2952&style=flat-square)
 
 </div>
 
@@ -91,15 +89,6 @@ Full ownership of purchasing and logistics for 5 UNICEF-funded water drilling pr
 |:---|:---|:---|
 | [Warehouse KPI Dashboard](https://github.com/Youssouf55/tableau-de-bord-kpis-entrepot) | Operational dashboard tracking service rate, picking performance, and logistics costs | ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
 | [Personal Portfolio](https://Youssouf55.github.io) | Professional website showcasing Supply Chain background, experience, and projects | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) |
-
----
-
-## GitHub Activity
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Youssouf55&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssouf55&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
 
 ---
 
