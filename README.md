@@ -60,6 +60,7 @@ Full ownership of purchasing and logistics for 5 UNICEF-funded water drilling pr
 ![VBA](https://img.shields.io/badge/VBA-1e6f3a?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX%20%2F%20Overleaf-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Supply Chain Tools
 ![TMS](https://img.shields.io/badge/TMS-0f3460?style=for-the-badge)
