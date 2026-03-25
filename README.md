@@ -77,10 +77,11 @@ La prépa m’a appris à ne pas rester dans mon couloir. En approvisionnement, 
 
 <br/>
 
-## 🏆 Trophées GitHub
+## 📊 Langages & Outils
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Youssouf55&theme=darkhub&no-bg=true&no-frame=true&column=4&title=Commits,Repositories,Stars,Followers" width="100%"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssouf55&layout=compact&hide_border=true&bg_color=0b1929&title_color=c8a84b&text_color=d8e2f4&langs_count=6"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Youssouf55&show_icons=true&hide_border=true&bg_color=0b1929&title_color=c8a84b&icon_color=c8a84b&text_color=d8e2f4&count_private=true&rank_icon=github"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c8a84b&height=3" width="100%"/>
