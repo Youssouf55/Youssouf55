@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b1929&height=200&section=header&text=Youssouf%20Bechir&fontSize=50&fontColor=c8a84b&fontAlignY=38&desc=Supply%20Chain%20%26%20Achats%20%E2%80%A2%20Paris%2C%20France&descAlignY=58&descSize=20&descColor=d8e2f4" width="100%"/>
+<img src="./header.svg" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=C8A84B&center=true&vCenter=true&multiline=false&width=700&lines=Supply+Chain+%26+Achats;Alternant+U+Logistique+%E2%80%A2+Ifs%2C+France;3+Continents+%C2%B7+6%2B+Projets+SC;Mission+UNICEF+%E2%80%94+N%27Djam%C3%A9na%2C+Tchad;Disponible+septembre+2026+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=C8A84B&center=true&vCenter=true&width=700&lines=Supply+Chain+%26+Achats;Alternant+U+Logistique+%E2%80%A2+Ifs%2C+France;3+Continents+%C2%B7+6%2B+Projets+SC;Mission+UNICEF+%E2%80%94+N%27Djam%C3%A9na%2C+Tchad;Disponible+septembre+2026+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 <br/>
 
@@ -10,8 +10,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-youssouf55.github.io-c8a84b?style=for-the-badge&logoColor=white)](https://youssouf55.github.io)
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-Youssouf%20Bechir-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/youssouf-bechir-youssouf)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-youssouf55.github.io-c8a84b?style=for-the-badge)](https://youssouf55.github.io)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-Youssouf%20Bechir-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/youssouf-bechir-youssouf)
 
 </div>
 
@@ -48,12 +48,12 @@ La prépa m’a appris à ne pas rester dans mon couloir. En approvisionnement, 
 
 **📦 Supply Chain & Opérations**
 
-![](https://img.shields.io/badge/Approvisionnement-152e52?style=flat-square&labelColor=0b1929&color=152e52)
-![](https://img.shields.io/badge/Gestion%20des%20stocks-152e52?style=flat-square&labelColor=0b1929&color=152e52)
-![](https://img.shields.io/badge/Sourcing%20Achats-152e52?style=flat-square&labelColor=0b1929&color=152e52)
-![](https://img.shields.io/badge/Planification%20SC-152e52?style=flat-square&labelColor=0b1929&color=152e52)
-![](https://img.shields.io/badge/Incoterms-152e52?style=flat-square&labelColor=0b1929&color=152e52)
-![](https://img.shields.io/badge/Transport%20multimodal-152e52?style=flat-square&labelColor=0b1929&color=152e52)
+![](https://img.shields.io/badge/Approvisionnement-152e52?style=flat-square&labelColor=0b1929)
+![](https://img.shields.io/badge/Gestion%20des%20stocks-152e52?style=flat-square&labelColor=0b1929)
+![](https://img.shields.io/badge/Sourcing%20Achats-152e52?style=flat-square&labelColor=0b1929)
+![](https://img.shields.io/badge/Planification%20SC-152e52?style=flat-square&labelColor=0b1929)
+![](https://img.shields.io/badge/Incoterms-152e52?style=flat-square&labelColor=0b1929)
+![](https://img.shields.io/badge/Transport%20multimodal-152e52?style=flat-square&labelColor=0b1929)
 
 **📊 Analyse & Reporting**
 
@@ -111,5 +111,5 @@ La prépa m’a appris à ne pas rester dans mon couloir. En approvisionnement, 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1929&height=120&section=footer&fontColor=c8a84b" width="100%"/>
+  <img src="./header.svg" width="100%"/>
 </div>
