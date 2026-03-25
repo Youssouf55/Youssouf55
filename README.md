@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b1929,152e52,c8a84b&height=180&section=header&text=Youssouf%20Bechir&fontSize=48&fontColor=c8a84b&animation=fadeIn&fontAlignY=36&desc=Supply%20Chain%20%26%20Achats%20%C2%B7%20Paris%2C%20France&descAlignY=56&descSize=18&descColor=d8e2f4" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C8A84B&center=true&vCenter=true&width=650&lines=Supply+Chain+%26+Achats;Alternant+U+Logistique+%C2%B7+Paris;3+Continents+%C2%B7+6%2B+Projets+SC;Mission+UNICEF+%E2%80%94+Tchad;Disponible+septembre+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C8A84B&center=true&vCenter=true&width=650&lines=Youssouf+Bechir;Supply+Chain+%26+Achats;Alternant+U+Logistique+%C2%B7+Paris;3+Continents+%C2%B7+6%2B+Projets+SC;Mission+UNICEF+%E2%80%94+Tchad;Disponible+septembre+2026)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,9 +15,9 @@
 
 Étudiant en **BUT Management Logistique & Transport** (IUT Grand Ouest Normandie, Promo 2026), spécialisation **Mobilité et Supply Chain Connectée**.
 
-La prépa m'a appris à ne pas rester dans mon couloir. En approvisionnement, en distribution, sur les sujets data, je cherche toujours à comprendre où ça s'insère dans l'ensemble.
+La prépa m’a appris à ne pas rester dans mon couloir. En approvisionnement, en distribution, sur les sujets data, je cherche toujours à comprendre où ça s’insère dans l’ensemble.
 
-**3 continents · 6+ projets SC · 2 ans d'alternance · 3 langues**
+**3 continents · 6+ projets SC · 2 ans d’alternance · 3 langues**
 
 ---
 
@@ -28,9 +26,9 @@ La prépa m'a appris à ne pas rester dans mon couloir. En approvisionnement, en
 | Entreprise | Poste | Période |
 |---|---|---|
 | **U Logistique** — Ifs, France | Alternant — Opérations Supply Chain | Sept. 2024 – Août 2026 |
-| **AGIT / UNICEF** — N'Djaména, Tchad | Stagiaire — Achats & Supply Chain Internationale | Juin – Août 2024 |
+| **AGIT / UNICEF** — N’Djaména, Tchad | Stagiaire — Achats & Supply Chain Internationale | Juin – Août 2024 |
 | **World Transport Easy** — Roissy-CDG | Stagiaire — Commerce International & Opérations Fret | Mai 2024 |
-| **Mosaic International** — N'Djaména, Tchad | Stagiaire — Coordination Supply Chain | Juin – Août 2023 |
+| **Mosaic International** — N’Djaména, Tchad | Stagiaire — Coordination Supply Chain | Juin – Août 2023 |
 
 ---
 
@@ -83,9 +81,3 @@ La prépa m'a appris à ne pas rester dans mon couloir. En approvisionnement, en
 - 🔭 **IRIS** (Institut de Relations Internationales et Stratégiques) — Membre actif, 2025–présent
 - 📦 **Supply Chain+** — Association étudiante, événements pro et conférences, 2024–présent
 - 🤝 **UNICEF France** — Bénévole logistique (Stade de France, Concert Soprano), 2023–présent
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b1929,152e52,c8a84b&height=100&section=footer" width="100%"/>
-</div>
