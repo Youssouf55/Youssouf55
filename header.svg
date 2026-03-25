@@ -1,0 +1,57 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0b1929"/>
+      <stop offset="60%" style="stop-color:#152e52"/>
+      <stop offset="100%" style="stop-color:#0b1929"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c8a84b"/>
+      <stop offset="50%" style="stop-color:#f0d060"/>
+      <stop offset="100%" style="stop-color:#c8a84b"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="220" fill="url(#bgGrad)"/>
+
+  <!-- Animated wave layers -->
+  <path d="M0,170 C120,140 240,190 360,160 C480,130 600,185 720,155 C810,132 870,158 900,145 L900,220 L0,220 Z" fill="#0a1525" opacity="0.8">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0,170 C120,140 240,190 360,160 C480,130 600,185 720,155 C810,132 870,158 900,145 L900,220 L0,220 Z;
+              M0,160 C100,185 220,145 360,170 C500,195 620,145 740,165 C830,180 880,150 900,160 L900,220 L0,220 Z;
+              M0,170 C120,140 240,190 360,160 C480,130 600,185 720,155 C810,132 870,158 900,145 L900,220 L0,220 Z"/>
+  </path>
+  <path d="M0,180 C150,155 300,195 450,170 C600,145 750,180 900,162 L900,220 L0,220 Z" fill="#c8a84b" opacity="0.12">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0,180 C150,155 300,195 450,170 C600,145 750,180 900,162 L900,220 L0,220 Z;
+              M0,172 C180,192 320,160 460,180 C600,200 740,165 900,175 L900,220 L0,220 Z;
+              M0,180 C150,155 300,195 450,170 C600,145 750,180 900,162 L900,220 L0,220 Z"/>
+  </path>
+
+  <!-- Decorative dots -->
+  <circle cx="60" cy="40" r="2" fill="#c8a84b" opacity="0.4"/>
+  <circle cx="840" cy="35" r="2" fill="#c8a84b" opacity="0.4"/>
+  <circle cx="450" cy="25" r="1.5" fill="#c8a84b" opacity="0.3"/>
+  <circle cx="200" cy="20" r="1" fill="#d8e2f4" opacity="0.3"/>
+  <circle cx="700" cy="22" r="1" fill="#d8e2f4" opacity="0.3"/>
+
+  <!-- Gold accent line -->
+  <line x1="270" y1="112" x2="630" y2="112" stroke="url(#goldGrad)" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Main title -->
+  <text x="450" y="88" font-family="Georgia, serif" font-size="46" font-weight="bold"
+        fill="url(#goldGrad)" text-anchor="middle" filter="url(#glow)" letter-spacing="2">
+    Youssouf Bechir
+  </text>
+
+  <!-- Subtitle -->
+  <text x="450" y="134" font-family="Arial, sans-serif" font-size="17"
+        fill="#d8e2f4" text-anchor="middle" letter-spacing="1" opacity="0.9">
+    Supply Chain &amp; Achats  ·  Paris, France
+  </text>
+</svg>
