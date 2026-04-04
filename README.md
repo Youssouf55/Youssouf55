@@ -3,7 +3,7 @@
   <br/><br/>
   <a href="https://youssouf55.github.io">Portfolio</a> &nbsp;&middot;&nbsp; <a href="https://www.linkedin.com/in/youssouf-bechir-youssouf">LinkedIn</a>
   <br/><br/>
-  <b>🔍 En recherche d'alternance · M1 Achats (MGACL) · Rentrée septembre 2026 · 2j école / 3j entreprise</b>
+  <b>En recherche d'alternance · M1 Achats (MGACL) · Rentrée septembre 2026 · 2j école / 3j entreprise</b>
 </div>
 
 <br/>
@@ -13,6 +13,8 @@ BUT Management Logistique & Transport, IUT Grand Ouest Normandie, Alençon (Prom
 Deux ans en alternance chez U Logistique à Ifs : pilotage de 25 à 30 tournées quotidiennes (frais et surgelés), taux de service à tenir au-dessus de 98 %, tableaux de bord construits sous Excel/VBA et Power BI. J'administre trois outils TMS/WMS en autonomie — Storeway, Gedmouv, WaryMe — du déploiement jusqu'à la formation des équipes.
 
 L'été 2024, stage chez AGIT sur une mission UNICEF au Tchad : cycle d'achats complet pour des forages d'eau dans une zone d'accueil de réfugiés soudanais. Identification et sélection des fournisseurs, commandes de pylônes Huawei et matériaux de construction, coordination entre importateurs internationaux et transporteurs locaux. Un contexte où l'improvisation coûte cher.
+
+Je prépare un M1 MGACL à l'IAE Evry Paris-Saclay à partir de septembre 2026 et je cherche mon entreprise d'alternance en Achats. Rythme : 2 jours école / 3 jours entreprise.
 
 ---
 
@@ -64,7 +66,5 @@ UNICEF France — bénévole logistique (Stade de France, concert Soprano), depu
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssouf55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars&include_all_commits=true&locale=fr" height="140"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssouf55&theme=tokyonight&hide_border=true&locale=fr" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssouf55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars&include_all_commits=true" height="165"/>
 </div>
