@@ -65,10 +65,3 @@ Supply Chain+, association étudiante, événements professionnels et conférenc
 UNICEF France, bénévole logistique (Stade de France, concert Soprano), depuis 2023
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssouf55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars&include_all_commits=true" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssouf55&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
-</div>
