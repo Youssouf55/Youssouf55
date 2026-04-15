@@ -2,7 +2,7 @@
 
 <img src="./header.svg" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=C8A84B&center=true&vCenter=true&width=700&lines=Supply+Chain+%26+Achats;Alternant+U+Logistique+%E2%80%A2+Ifs%2C+France;3+Continents+%C2%B7+6%2B+Projets+SC;Mission+UNICEF+%E2%80%94+N%27Djam%C3%A9na%2C+Tchad;Disponible+septembre+2026+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=C8A84B&center=true&vCenter=true&width=700&lines=Supply+Chain+%26+Achats;Alternant+U+Logistique+%E2%80%A2+Caen%2C+France;3+Continents+%C2%B7+6%2B+Projets+SC;Mission+UNICEF+%E2%80%94+;Disponible+septembre+2026+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 <br/>
 
