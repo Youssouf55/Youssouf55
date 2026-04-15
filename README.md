@@ -35,10 +35,10 @@ La prépa m’a appris à ne pas rester dans mon couloir. En approvisionnement, 
 
 | Entreprise | Poste | Période |
 |---|---|---|
-| 🇫🇷 **U Logistique** — Ifs, France | Alternant — Opérations Supply Chain | Sept. 2024 – Août 2026 |
-| 🇹🇩 **AGIT / UNICEF** — N’Djaména, Tchad | Stagiaire — Achats & Supply Chain Internationale | Juin – Août 2024 |
+| 🇫🇷 **U Logistique** — Caen, France | Alternant — Opérations Supply Chain | Sept. 2024 – Août 2026 |
+| 🌍 **AGIT / UNICEF** — Mission Internationale | Stagiaire — Achats & Supply Chain Internationale | Juin – Août 2024 |
 | ✈️ **World Transport Easy** — Roissy-CDG | Stagiaire — Commerce International & Opérations Fret | Mai 2024 |
-| 🇹🇩 **Mosaic International** — N’Djaména, Tchad | Stagiaire — Coordination Supply Chain | Juin – Août 2023 |
+|⚡ **Mosaic International** — Secteur Énergie | Stagiaire — Coordination Supply Chain | Juin – Août 2023 |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c8a84b&height=3" width="100%"/>
 
