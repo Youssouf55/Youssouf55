@@ -1,57 +1,171 @@
 <svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0b1929"/>
-      <stop offset="60%" style="stop-color:#152e52"/>
-      <stop offset="100%" style="stop-color:#0b1929"/>
-    </linearGradient>
-    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#c8a84b"/>
-      <stop offset="50%" style="stop-color:#f0d060"/>
-      <stop offset="100%" style="stop-color:#c8a84b"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-
-  <!-- Background -->
-  <rect width="900" height="220" fill="url(#bgGrad)"/>
-
-  <!-- Animated wave layers -->
-  <path d="M0,170 C120,140 240,190 360,160 C480,130 600,185 720,155 C810,132 870,158 900,145 L900,220 L0,220 Z" fill="#0a1525" opacity="0.8">
-    <animate attributeName="d" dur="6s" repeatCount="indefinite"
-      values="M0,170 C120,140 240,190 360,160 C480,130 600,185 720,155 C810,132 870,158 900,145 L900,220 L0,220 Z;
-              M0,160 C100,185 220,145 360,170 C500,195 620,145 740,165 C830,180 880,150 900,160 L900,220 L0,220 Z;
-              M0,170 C120,140 240,190 360,160 C480,130 600,185 720,155 C810,132 870,158 900,145 L900,220 L0,220 Z"/>
-  </path>
-  <path d="M0,180 C150,155 300,195 450,170 C600,145 750,180 900,162 L900,220 L0,220 Z" fill="#c8a84b" opacity="0.12">
-    <animate attributeName="d" dur="8s" repeatCount="indefinite"
-      values="M0,180 C150,155 300,195 450,170 C600,145 750,180 900,162 L900,220 L0,220 Z;
-              M0,172 C180,192 320,160 460,180 C600,200 740,165 900,175 L900,220 L0,220 Z;
-              M0,180 C150,155 300,195 450,170 C600,145 750,180 900,162 L900,220 L0,220 Z"/>
-  </path>
-
-  <!-- Decorative dots -->
-  <circle cx="60" cy="40" r="2" fill="#c8a84b" opacity="0.4"/>
-  <circle cx="840" cy="35" r="2" fill="#c8a84b" opacity="0.4"/>
-  <circle cx="450" cy="25" r="1.5" fill="#c8a84b" opacity="0.3"/>
-  <circle cx="200" cy="20" r="1" fill="#d8e2f4" opacity="0.3"/>
-  <circle cx="700" cy="22" r="1" fill="#d8e2f4" opacity="0.3"/>
-
-  <!-- Gold accent line -->
-  <line x1="270" y1="112" x2="630" y2="112" stroke="url(#goldGrad)" stroke-width="1.5" opacity="0.6"/>
-
-  <!-- Main title -->
-  <text x="450" y="88" font-family="Georgia, serif" font-size="46" font-weight="bold"
-        fill="url(#goldGrad)" text-anchor="middle" filter="url(#glow)" letter-spacing="2">
-    Youssouf Bechir
-  </text>
-
-  <!-- Subtitle -->
-  <text x="450" y="134" font-family="Arial, sans-serif" font-size="17"
-        fill="#d8e2f4" text-anchor="middle" letter-spacing="1" opacity="0.9">
-    Supply Chain &amp; Achats  ·  Paris, France
-  </text>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#030d1c"/>
+    <stop offset="100%" stop-color="#0f2240"/>
+  </linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#b89438"/>
+    <stop offset="50%" stop-color="#f5d878"/>
+    <stop offset="100%" stop-color="#b89438"/>
+  </linearGradient>
+  <linearGradient id="seine" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#0c1f3a" stop-opacity="0.9"/>
+    <stop offset="100%" stop-color="#050d1a"/>
+  </linearGradient>
+</defs>
+<rect width="900" height="220" fill="url(#sky)"/>
+<circle cx="45" cy="12" r="0.8" fill="white" opacity="0.7"/>
+<circle cx="115" cy="7" r="1.1" fill="white" opacity="0.9"/>
+<circle cx="195" cy="18" r="0.7" fill="white" opacity="0.6"/>
+<circle cx="280" cy="10" r="0.9" fill="white" opacity="0.8"/>
+<circle cx="370" cy="5" r="0.8" fill="white" opacity="0.7"/>
+<circle cx="490" cy="16" r="0.7" fill="white" opacity="0.6"/>
+<circle cx="600" cy="9" r="1.1" fill="white" opacity="0.9"/>
+<circle cx="690" cy="20" r="0.8" fill="white" opacity="0.7"/>
+<circle cx="855" cy="28" r="0.7" fill="white" opacity="0.6"/>
+<circle cx="75" cy="42" r="0.7" fill="white" opacity="0.5"/>
+<circle cx="155" cy="35" r="1" fill="white" opacity="0.8"/>
+<circle cx="240" cy="52" r="0.8" fill="white" opacity="0.6"/>
+<circle cx="330" cy="32" r="0.7" fill="white" opacity="0.7"/>
+<circle cx="555" cy="40" r="0.8" fill="white" opacity="0.6"/>
+<circle cx="645" cy="48" r="0.7" fill="white" opacity="0.5"/>
+<circle cx="735" cy="33" r="1" fill="white" opacity="0.9"/>
+<circle cx="830" cy="52" r="0.8" fill="white" opacity="0.6"/>
+<circle cx="145" cy="14" r="1.5" fill="white" opacity="0.95"/>
+<circle cx="430" cy="22" r="1.2" fill="white" opacity="0.85"/>
+<circle cx="880" cy="15" r="1.3" fill="white" opacity="0.8"/>
+<circle cx="22" cy="55" r="0.7" fill="white" opacity="0.5"/>
+<circle cx="505" cy="55" r="0.6" fill="white" opacity="0.5"/>
+<circle cx="670" cy="60" r="0.8" fill="white" opacity="0.45"/>
+<circle cx="350" cy="58" r="0.6" fill="white" opacity="0.4"/>
+<circle cx="800" cy="36" r="28" fill="#c0a850" opacity="0.09"/>
+<circle cx="800" cy="36" r="19" fill="#f0e8c0" opacity="0.88"/>
+<circle cx="806" cy="32" r="4.5" fill="#e4dc90" opacity="0.22"/>
+<circle cx="795" cy="42" r="3" fill="#e4dc90" opacity="0.18"/>
+<circle cx="804" cy="45" r="2" fill="#e4dc90" opacity="0.15"/>
+<rect x="0" y="130" width="58" height="67" fill="#09192e"/>
+<polygon points="0,130 29,120 58,130" fill="#0b1e36"/>
+<rect x="7" y="137" width="8" height="10" fill="#d4a840" opacity="0.25"/>
+<rect x="21" y="137" width="8" height="10" fill="#d4a840" opacity="0.15"/>
+<rect x="36" y="137" width="8" height="10" fill="#d4a840" opacity="0.3"/>
+<rect x="7" y="153" width="8" height="10" fill="#d4a840" opacity="0.12"/>
+<rect x="36" y="153" width="8" height="10" fill="#d4a840" opacity="0.2"/>
+<rect x="7" y="169" width="8" height="10" fill="#d4a840" opacity="0.08"/>
+<rect x="21" y="169" width="8" height="10" fill="#d4a840" opacity="0.18"/>
+<rect x="65" y="142" width="85" height="55" fill="#081730"/>
+<polygon points="65,142 107,132 150,142" fill="#091c38"/>
+<rect x="73" y="149" width="8" height="8" fill="#d4a840" opacity="0.35"/>
+<rect x="87" y="149" width="8" height="8" fill="#d4a840" opacity="0.18"/>
+<rect x="101" y="149" width="8" height="8" fill="#d4a840" opacity="0.28"/>
+<rect x="115" y="149" width="8" height="8" fill="#d4a840" opacity="0.12"/>
+<rect x="129" y="149" width="8" height="8" fill="#d4a840" opacity="0.22"/>
+<rect x="73" y="163" width="8" height="8" fill="#d4a840" opacity="0.15"/>
+<rect x="101" y="163" width="8" height="8" fill="#d4a840" opacity="0.25"/>
+<rect x="73" y="177" width="8" height="8" fill="#d4a840" opacity="0.08"/>
+<rect x="115" y="177" width="8" height="8" fill="#d4a840" opacity="0.12"/>
+<rect x="157" y="136" width="73" height="61" fill="#091a34"/>
+<polygon points="157,136 193,125 230,136" fill="#0b2038"/>
+<rect x="165" y="143" width="8" height="8" fill="#d4a840" opacity="0.3"/>
+<rect x="179" y="143" width="8" height="8" fill="#d4a840" opacity="0.1"/>
+<rect x="193" y="143" width="8" height="8" fill="#d4a840" opacity="0.38"/>
+<rect x="207" y="143" width="8" height="8" fill="#d4a840" opacity="0.2"/>
+<rect x="165" y="157" width="8" height="8" fill="#d4a840" opacity="0.15"/>
+<rect x="193" y="157" width="8" height="8" fill="#d4a840" opacity="0.22"/>
+<rect x="165" y="171" width="8" height="8" fill="#d4a840" opacity="0.08"/>
+<rect x="237" y="147" width="81" height="50" fill="#081730"/>
+<polygon points="237,147 277,137 318,147" fill="#091c38"/>
+<rect x="245" y="154" width="8" height="8" fill="#d4a840" opacity="0.28"/>
+<rect x="259" y="154" width="8" height="8" fill="#d4a840" opacity="0.12"/>
+<rect x="273" y="154" width="8" height="8" fill="#d4a840" opacity="0.35"/>
+<rect x="287" y="154" width="8" height="8" fill="#d4a840" opacity="0.18"/>
+<rect x="301" y="154" width="8" height="8" fill="#d4a840" opacity="0.1"/>
+<rect x="245" y="168" width="8" height="8" fill="#d4a840" opacity="0.12"/>
+<rect x="273" y="168" width="8" height="8" fill="#d4a840" opacity="0.22"/>
+<rect x="325" y="153" width="67" height="44" fill="#091a34"/>
+<polygon points="325,153 358,143 392,153" fill="#0b2038"/>
+<rect x="333" y="160" width="7" height="7" fill="#d4a840" opacity="0.25"/>
+<rect x="346" y="160" width="7" height="7" fill="#d4a840" opacity="0.15"/>
+<rect x="360" y="160" width="7" height="7" fill="#d4a840" opacity="0.32"/>
+<rect x="374" y="160" width="7" height="7" fill="#d4a840" opacity="0.1"/>
+<rect x="333" y="173" width="7" height="7" fill="#d4a840" opacity="0.1"/>
+<rect x="360" y="173" width="7" height="7" fill="#d4a840" opacity="0.18"/>
+<rect x="398" y="158" width="18" height="39" fill="#081730"/>
+<polygon points="398,158 407,150 416,158" fill="#091c38"/>
+<rect x="402" y="165" width="5" height="5" fill="#d4a840" opacity="0.2"/>
+<rect x="402" y="176" width="5" height="5" fill="#d4a840" opacity="0.1"/>
+<path d="M 450,72 L 451.5,82 L 453,95 L 455,107 L 463,115 L 465,119 L 469,133 L 475,159 L 478,163 C 481,175 485,186 487,197 L 413,197 C 415,186 419,175 422,163 L 425,159 L 431,133 L 435,119 L 437,115 L 445,107 L 447,95 L 448.5,82 Z" fill="#0d2244" stroke="#162e56" stroke-width="0.5"/>
+<rect x="420" y="159" width="60" height="5" fill="#111e40" rx="1"/>
+<rect x="434" y="115" width="32" height="5" fill="#111e40" rx="1"/>
+<path d="M 422,163 Q 450,176 478,163" fill="none" stroke="#1c3462" stroke-width="1.5" opacity="0.5"/>
+<rect x="446" y="109" width="8" height="9" fill="#111e40"/>
+<line x1="450" y1="72" x2="450" y2="109" stroke="#14284c" stroke-width="2"/>
+<circle cx="450" cy="72" r="3" fill="#c8a84b" opacity="0.75"/>
+<circle cx="441" cy="154" r="1.5" fill="#c8a84b" opacity="0.55"/>
+<circle cx="450" cy="154" r="1.5" fill="#c8a84b" opacity="0.4"/>
+<circle cx="459" cy="154" r="1.5" fill="#c8a84b" opacity="0.65"/>
+<circle cx="445" cy="128" r="1.2" fill="#c8a84b" opacity="0.35"/>
+<circle cx="455" cy="128" r="1.2" fill="#c8a84b" opacity="0.3"/>
+<circle cx="450" cy="108" r="1.2" fill="#c8a84b" opacity="0.45"/>
+<rect x="484" y="158" width="18" height="39" fill="#081730"/>
+<polygon points="484,158 493,150 502,158" fill="#091c38"/>
+<rect x="490" y="165" width="5" height="5" fill="#d4a840" opacity="0.2"/>
+<rect x="490" y="176" width="5" height="5" fill="#d4a840" opacity="0.1"/>
+<rect x="508" y="153" width="67" height="44" fill="#091a34"/>
+<polygon points="508,153 541,143 575,153" fill="#0b2038"/>
+<rect x="516" y="160" width="7" height="7" fill="#d4a840" opacity="0.28"/>
+<rect x="529" y="160" width="7" height="7" fill="#d4a840" opacity="0.12"/>
+<rect x="543" y="160" width="7" height="7" fill="#d4a840" opacity="0.35"/>
+<rect x="557" y="160" width="7" height="7" fill="#d4a840" opacity="0.1"/>
+<rect x="516" y="173" width="7" height="7" fill="#d4a840" opacity="0.12"/>
+<rect x="543" y="173" width="7" height="7" fill="#d4a840" opacity="0.18"/>
+<rect x="582" y="147" width="81" height="50" fill="#081730"/>
+<polygon points="582,147 622,137 663,147" fill="#091c38"/>
+<rect x="590" y="154" width="8" height="8" fill="#d4a840" opacity="0.3"/>
+<rect x="604" y="154" width="8" height="8" fill="#d4a840" opacity="0.15"/>
+<rect x="618" y="154" width="8" height="8" fill="#d4a840" opacity="0.25"/>
+<rect x="632" y="154" width="8" height="8" fill="#d4a840" opacity="0.12"/>
+<rect x="646" y="154" width="8" height="8" fill="#d4a840" opacity="0.2"/>
+<rect x="590" y="168" width="8" height="8" fill="#d4a840" opacity="0.1"/>
+<rect x="618" y="168" width="8" height="8" fill="#d4a840" opacity="0.2"/>
+<rect x="670" y="136" width="73" height="61" fill="#091a34"/>
+<polygon points="670,136 706,125 743,136" fill="#0b2038"/>
+<rect x="678" y="143" width="8" height="8" fill="#d4a840" opacity="0.28"/>
+<rect x="692" y="143" width="8" height="8" fill="#d4a840" opacity="0.15"/>
+<rect x="706" y="143" width="8" height="8" fill="#d4a840" opacity="0.35"/>
+<rect x="720" y="143" width="8" height="8" fill="#d4a840" opacity="0.1"/>
+<rect x="678" y="157" width="8" height="8" fill="#d4a840" opacity="0.12"/>
+<rect x="706" y="157" width="8" height="8" fill="#d4a840" opacity="0.22"/>
+<rect x="678" y="171" width="8" height="8" fill="#d4a840" opacity="0.06"/>
+<rect x="692" y="171" width="8" height="8" fill="#d4a840" opacity="0.1"/>
+<rect x="750" y="142" width="85" height="55" fill="#081730"/>
+<polygon points="750,142 792,132 835,142" fill="#091c38"/>
+<rect x="758" y="149" width="8" height="8" fill="#d4a840" opacity="0.32"/>
+<rect x="772" y="149" width="8" height="8" fill="#d4a840" opacity="0.18"/>
+<rect x="786" y="149" width="8" height="8" fill="#d4a840" opacity="0.28"/>
+<rect x="800" y="149" width="8" height="8" fill="#d4a840" opacity="0.12"/>
+<rect x="814" y="149" width="8" height="8" fill="#d4a840" opacity="0.22"/>
+<rect x="758" y="163" width="8" height="8" fill="#d4a840" opacity="0.14"/>
+<rect x="786" y="163" width="8" height="8" fill="#d4a840" opacity="0.24"/>
+<rect x="758" y="177" width="8" height="8" fill="#d4a840" opacity="0.08"/>
+<rect x="814" y="177" width="8" height="8" fill="#d4a840" opacity="0.12"/>
+<rect x="842" y="130" width="58" height="67" fill="#09192e"/>
+<polygon points="842,130 871,120 900,130" fill="#0b1e36"/>
+<rect x="850" y="137" width="8" height="10" fill="#d4a840" opacity="0.3"/>
+<rect x="864" y="137" width="8" height="10" fill="#d4a840" opacity="0.18"/>
+<rect x="878" y="137" width="8" height="10" fill="#d4a840" opacity="0.25"/>
+<rect x="850" y="153" width="8" height="10" fill="#d4a840" opacity="0.15"/>
+<rect x="878" y="153" width="8" height="10" fill="#d4a840" opacity="0.1"/>
+<rect x="864" y="169" width="8" height="10" fill="#d4a840" opacity="0.12"/>
+<rect x="0" y="197" width="900" height="23" fill="url(#seine)"/>
+<line x1="40" y1="205" x2="140" y2="205" stroke="#1a3860" stroke-width="0.8" opacity="0.4"/>
+<line x1="190" y1="210" x2="330" y2="210" stroke="#1a3860" stroke-width="0.8" opacity="0.3"/>
+<line x1="380" y1="206" x2="490" y2="206" stroke="#1a3860" stroke-width="0.8" opacity="0.35"/>
+<line x1="540" y1="211" x2="680" y2="211" stroke="#1a3860" stroke-width="0.8" opacity="0.28"/>
+<line x1="700" y1="207" x2="860" y2="207" stroke="#1a3860" stroke-width="0.8" opacity="0.32"/>
+<path d="M 449,197 L 449,202 L 448.5,208 L 448,213 L 452,213 L 451.5,208 L 451,202 Z" fill="#c8a84b" opacity="0.07"/>
+<ellipse cx="450" cy="52" rx="230" ry="38" fill="#030d1c" opacity="0.35"/>
+<text x="450" y="47" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="bold" text-anchor="middle" fill="url(#gold)" letter-spacing="1.5">Youssouf Bechir</text>
+<text x="450" y="67" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#7aacda" letter-spacing="1.2">Supply Chain &amp; Achats · Paris, France</text>
+<line x1="310" y1="73" x2="590" y2="73" stroke="#c8a84b" stroke-width="0.7" opacity="0.35"/>
 </svg>
