@@ -1,145 +1,57 @@
-<div align="center">
+<img src="./header.svg" width="100%" alt="Youssouf Bechir, supply chain aéronautique-défense et énergie"/>
 
-<img src="./header.svg" width="100%"/>
+Je suis en Master TLTE (Transport, logistique, territoires, environnement) à Sorbonne Université et à l'École Supérieure des Transports, en alternance comme Pricing & Business Analyst chez GEODIS.
 
-</div>
+Je travaille sur la supply chain de deux industries : l'aéronautique-défense, où les moteurs et les pièces forgées freinent les cadences, et l'énergie, où une route maritime qui ferme change le prix de tout un voyage. Mon portfolio suit ces sujets avec des données publiques, sourcées et datées.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002395,50:ffffff,100:ED2939&height=4" width="100%"/>
+**[youssouf55.github.io](https://youssouf55.github.io/)**
 
-<div align="center">
+[![Veille](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fyoussouf55.github.io%2Fdata%2Fveille.json&query=%24.generated&label=veille%20mise%20%C3%A0%20jour&color=0A2440&style=flat-square)](https://youssouf55.github.io/)
+[![Brent](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fyoussouf55.github.io%2Fdata%2Fveille.json&query=%24.brent.points%5B-1%3A%5D%5B1%5D&label=Brent%20(EIA)&suffix=%20%24%2Fb&color=155E93&style=flat-square)](https://youssouf55.github.io/)
+[![EUR/USD](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fyoussouf55.github.io%2Fdata%2Fveille.json&query=%24.eurusd.points%5B-1%3A%5D%5B1%5D&label=EUR%2FUSD%20(BCE)&color=155E93&style=flat-square)](https://youssouf55.github.io/)
 
-[![Frappe](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=C8A848&center=true&vCenter=true&width=720&lines=Achats+%26+Supply+Chain;Alternant+%E2%80%94+Paris%2C+%C3%8Ele-de-France;3+Continents+%C2%B7+6%2B+Projets+SC;B%C3%A9n%C3%A9vole+UNICEF+France;Disponible+%E2%80%94+Septembre+2026)](https://git.io/typing-svg)
+<sub>Ces badges lisent les données du site, collectées toutes les six heures par une GitHub Action ([`veille.yml`](https://github.com/Youssouf55/youssouf55.github.io/blob/main/.github/workflows/veille.yml)) auprès du FMI (PortWatch), de la BCE et de l'EIA.</sub>
 
-</div>
+## Ce que je prépare
 
-<br/>
+| | Question | Livrable | État |
+|:--|:--|:--|:--|
+| A1 | Combien coûte un avion qui attend ses moteurs ? | Modèle Excel et note de 4 pages | en préparation |
+| A2 | Titane et pièces forgées : où sont les dépendances ? | Tableau de bord | prévue |
+| A3 | Double usage 2026 : ce qui change pour un flux export | Note de 2 pages | prévue |
+| E1 | Fermeture d'Ormuz : combien coûte un voyage de pétrolier ? | Modèle Excel, puis Python | prévue |
+| E2 | Combien coûte l'attente au port ? | Calculateur de surestaries | en préparation |
+| E3 | Force majeure au Qatar : où l'Europe trouve-t-elle son GNL ? | Note et carte | prévue |
 
-<div align="center">
+Chaque étude dit pour qui elle est faite et ce qui pourrait la contredire. Les deux fiches de base (aéronautique-défense, énergie) sont [en ligne](https://youssouf55.github.io/#recherche).
 
-[![](https://img.shields.io/badge/Alternance-2_ans-002395?style=for-the-badge&labelColor=0d1117)&nbsp;
-[![](https://img.shields.io/badge/Terrain-3_continents-c8a84b?style=for-the-badge&labelColor=0d1117)&nbsp;
-[![](https://img.shields.io/badge/Projets_SC-6%2B-ED2939?style=for-the-badge&labelColor=0d1117)&nbsp;
-[![](https://img.shields.io/badge/B%C3%A9n%C3%A9vole-UNICEF_France-009EDB?style=for-the-badge&labelColor=0d1117)
+## Projets de BUT
 
-</div>
+- [Phénix : la mer ou le rail pour l'automobile](https://github.com/Youssouf55/sae4-transport-international-automobile), flux multimodaux Marseille–Le Mans, maritime contre ferroviaire.
+- [BES Électroménager : remplir un conteneur](https://github.com/Youssouf55/sae2-optimisation-chargement-bes), chargement d'un 40 pieds et politique de réapprovisionnement.
+- [Plumbingstuff : un entrepôt en France après le Brexit](https://github.com/Youssouf55/sae6-implantation-entrepot-post-brexit), choix de site et cahier des charges WMS.
+- [Tableau de bord d'entrepôt](https://github.com/Youssouf55/tableau-de-bord-kpis-entrepot), taux de service et productivité sur 25 à 30 tournées par jour.
 
-<br/>
+Les autres dépôts reprennent des exercices de cours : stocks, tournées, externalisation, audit de chaîne.
 
-## 🇫🇷 &nbsp; Profil
+## Parcours
 
-<div align="center">
+| Période | Poste | Où |
+|:--|:--|:--|
+| 2026-2028 | Pricing & Business Analyst, alternance | GEODIS Distribution & Express, siège |
+| 2024-2026 | Alternant opérations supply chain | U Logistique, Ifs |
+| Été 2024 | Stagiaire achats et supply chain internationale | AGIT, forages soutenus par l'UNICEF, Tchad |
+| Mai 2024 | Stagiaire commerce international et fret | World Transport Easy, Roissy-CDG |
+| Été 2023 | Stagiaire coordination supply chain | Mosaic International, secteur énergie |
 
-```
-🎓 BUT Management Logistique & Transport — IUT Grand Ouest Normandie (2026)
-🎯 Candidat Master Achats & Supply Chain — IAE Paris-Saclay (sept. 2026)
-📍 Paris, Île-de-France · Permis B · Véhiculé
-🗣 Français (natif) · Arabe C1 · Anglais B2
-```
+**Formation.** Master TLTE, Excellence in Sustainable Transportation, Sorbonne Université et École Supérieure des Transports (2026-2028). BUT Management de la logistique et des transports, IUT Grand Ouest Normandie (2023-2026).
 
-</div>
+**Outils.** Excel et VBA, Power BI, Python pour la collecte de données publiques. Incoterms, douane, affrètement.
 
-<br/>
+**Langues.** Français, anglais (C1), arabe (C1).
 
-## 💼 &nbsp; Parcours professionnel
+**Engagements.** IRIS, Supply Chain+, bénévole logistique à l'UNICEF France.
 
-| Entreprise | Rôle | Période |
-|:--|:--|:--:|
-| 🇫🇷 **U Logistique** — Caen, France | Alternant — Opérations Supply Chain | 2024 – 2026 |
-| 🌍 **AGIT / UNICEF** — Mission Internationale | Stagiaire — Achats & Supply Chain | Juin – Août 2024 |
-| ✈️ **World Transport Easy** — Roissy-CDG | Stagiaire — Commerce International & Fret | Mai 2024 |
-| ⚡ **Mosaic International** — Secteur Énergie | Stagiaire — Coordination Supply Chain | Juin – Août 2023 |
+---
 
-<br/>
-
-## 🛠 &nbsp; Expertises
-
-**Chaîne logistique & Achats**&nbsp;
-[![](https://img.shields.io/badge/Supply_Chain-002395?style=flat-square)
-[![](https://img.shields.io/badge/Approvisionnement-002395?style=flat-square)
-[![](https://img.shields.io/badge/Sourcing_Achats-002395?style=flat-square)
-[![](https://img.shields.io/badge/Transport_Multimodal-002395?style=flat-square)
-[![](https://img.shields.io/badge/Incoterms-002395?style=flat-square)
-[![](https://img.shields.io/badge/N%C3%A9gociation_fournisseurs-002395?style=flat-square)
-
-**Analyse & Pilotage**&nbsp;
-[![](https://img.shields.io/badge/Power_BI-c8a84b?style=flat-square)
-[![](https://img.shields.io/badge/Excel_VBA-c8a84b?style=flat-square)
-[![](https://img.shields.io/badge/Tableaux_de_bord_KPI-c8a84b?style=flat-square)
-[![](https://img.shields.io/badge/SQL-c8a84b?style=flat-square)
-[![](https://img.shields.io/badge/Python-c8a84b?style=flat-square)
-
-**Outils métier**&nbsp;
-[![](https://img.shields.io/badge/Storeway-555?style=flat-square)
-[![](https://img.shields.io/badge/GedMouv-555?style=flat-square)
-[![](https://img.shields.io/badge/WaryMe-555?style=flat-square)
-[![](https://img.shields.io/badge/AS400-555?style=flat-square)
-[![](https://img.shields.io/badge/TMS_/_WMS-555?style=flat-square)
-
-**🖥️ Outils & Technologies**&nbsp;
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)](https://chat.openai.com)
-[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org)
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org)
-
-<br/>
-
-## 📊 &nbsp; Activité GitHub
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youssouf55/Youssouf55/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssouf55/Youssouf55/output/github-contribution-grid-snake.svg" />
-      <img alt="Serpent de contributions" src="https://raw.githubusercontent.com/Youssouf55/Youssouf55/output/github-contribution-grid-snake.svg" />
-</picture>picture>
-
-</div>
-
-<br/>
-
-## 🐍 &nbsp; Contributions
-
-<br/>
-
-## ✒️ &nbsp; Pensée
-
-<div align="center">
-
-*« Lorsqu'un homme œuvre, qu'il le fasse avec une rigueur telle*
-*qu'aucune imperfection ne puisse s'y loger. »*
-
-</div>
-
-<br/>
-
-## 📍 &nbsp; En ce moment
-
-- 📚 Préparation du **Master MGACL** — IAE Paris-Saclay · Rentrée septembre 2026
-- - 🔭 Veille active sur les mutations digitales de la supply chain française
-  - - 🌍 Prochain horizon : **Foire de Canton** (Guangzhou) & Émirats Arabes Unis
-   
-    - <br/>
-
-    ## 🤝 &nbsp; Engagements
-
-    | Organisation | Contribution |
-    |:--|:--|
-    | 🔵 **UNICEF France** — Bénévole logistique | Coordination du concert de Soprano au Stade de France |
-    | 📡 **IRIS** — Institut de Relations Internationales et Stratégiques | Membre actif · Analyse des risques géopolitiques & supply chain |
-    | 📦 **Supply Chain+** — Association étudiante | Veille sectorielle · Rencontres professionnelles |
-
-    <br/>
-
-    ## 🌐 &nbsp; Me retrouver
-
-    <div align="center">
-
-    🇫🇷 Paris, Île-de-France &nbsp;·&nbsp; Achats & Supply Chain &nbsp;·&nbsp; 2026
-
-    </div>
+[Portfolio](https://youssouf55.github.io/) · [LinkedIn](https://www.linkedin.com/in/youssouf-bechir-youssouf)
