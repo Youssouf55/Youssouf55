@@ -1,6 +1,6 @@
 <img src="./header.svg" width="100%" alt="Youssouf Bechir, coûts, prix et flux de transport"/>
 
-Je suis en Master TLTE (Transport, logistique, territoires, environnement) à Sorbonne Université et à l'École Supérieure des Transports, en alternance comme Pricing & Business Analyst chez GEODIS.
+Je suis en Master TLTE (Transport, logistique, territoires, environnement) à Sorbonne Université, en alternance comme Pricing & Business Analyst chez GEODIS.
 
 Je résous des problèmes de coût, de prix et de flux de transport, avec des données publiques et des modèles testés contre la réalité. Mes terrains : le transport routier, l'énergie par la mer et la supply chain aéronautique. Rien de ce que je vois chez GEODIS n'apparaît ici.
 
@@ -36,7 +36,7 @@ Les autres dépôts reprennent des exercices de cours : stocks, tournées, exter
 | Mai 2024 | Stagiaire commerce international et fret | World Transport Easy, Roissy-CDG |
 | Été 2023 | Stagiaire coordination supply chain | Mosaic International, secteur énergie |
 
-**Formation.** Master TLTE, Excellence in Sustainable Transportation, Sorbonne Université et École Supérieure des Transports (2026-2028). BUT Management de la logistique et des transports, IUT Grand Ouest Normandie (2023-2026).
+**Formation.** Master TLTE, Excellence in Sustainable Transportation, Sorbonne Université (2026-2028). BUT Management de la logistique et des transports, IUT Grand Ouest Normandie (2023-2026).
 
 **Outils.** Excel et VBA, Power BI, Python. Incoterms, douane, affrètement.
 
