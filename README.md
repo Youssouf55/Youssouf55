@@ -1,30 +1,26 @@
-<img src="./header.svg" width="100%" alt="Youssouf Bechir, coûts, prix et flux de transport"/>
+<img src="./header.svg" width="100%" alt="Youssouf Bechir, supply chain de l'aéronautique-défense et de l'énergie"/>
 
-Je suis en Master TLTE (Transport, logistique, territoires, environnement) à Sorbonne Université, en alternance comme Pricing & Business Analyst chez GEODIS.
+Je suis en master TLTE à Sorbonne Université, en alternance comme Pricing & Business Analyst chez GEODIS.
 
-Je résous des problèmes de coût, de prix et de flux de transport, avec des données publiques et des modèles testés contre la réalité. Mes terrains : le transport routier, l'énergie par la mer et la supply chain aéronautique. Rien de ce que je vois chez GEODIS n'apparaît ici.
+Je travaille sur la supply chain de l'aéronautique-défense et de l'énergie, sur ce que ces secteurs gèrent tous les jours : des pièces qui arrivent en retard, des stocks à dimensionner quand les délais dérivent, le coût d'un voyage de pétrolier et le temps perdu au port. Je pars de données publiques et je teste mes modèles contre la réalité. Rien de ce que je vois chez GEODIS n'apparaît ici.
 
 **[youssouf55.github.io](https://youssouf55.github.io/)**
 
-## Les problèmes que je résous
+## Les problèmes sur lesquels je travaille
 
-| | Problème | Test prévu | Livrable | État |
-|:--|:--|:--|:--|:--|
-| P1 | Should-cost du transport routier et indexation gazole et carbone (ETS2) | Reproduire le barème CNR à moins de 1 % près, puis vieillir le modèle sur 2015-2026 contre l'indice de prix INSEE | Fichier Excel ouvert et note | en cours |
-| P2 | Choix modal et distance de rentabilité, en coût privé et en coût complet | Refaire Janic (2007), puis confronter aux parts modales par classe de distance (Eurostat) | Calculateur et note | 2027 |
-| P3 | Économie d'un voyage de pétrolier : TCE, vitesse, route, surestaries | Refaire un exemple de manuel, puis comparer le TCE calculé aux TCE publiés | Estimateur de voyage et note en anglais | 2027 |
-| P4 | Risque fournisseur en aéronautique : temps de reprise et temps de survie | Méthode de Simchi-Levi (2014), robustesse du classement aux hypothèses | Tableau de bord et note | 2027-2028 |
+| Secteur | Problème | Test | État |
+|:--|:--|:--|:--|
+| Énergie | Ce que rapporte un voyage de pétrolier : TCE, Suez ou le Cap, vitesse, surestaries | Refaire un exemple de manuel, puis comparer aux valeurs publiées pour la même route et la même date | en cours |
+| Aéronautique-défense | Les stocks de sécurité quand les délais fournisseurs dérivent | Comparer plusieurs règles de stock sur des séries publiques de demande intermittente, jugées sur des mois qui n'ont pas servi à les régler | 2027 |
+| Aéronautique-défense | Le risque fournisseur sur la chaîne d'un moteur : temps de reprise contre temps de survie | Méthode de Simchi-Levi (2014), robustesse du classement aux hypothèses | 2027 |
 
-**Méthode.** Reproduire d'abord un résultat publié. Séparer les données qui construisent le modèle de celles qui le testent. Chiffrer l'erreur. Écrire les limites. Finir par un outil qu'on peut ouvrir. Chaque dépôt garde un journal des corrections.
+Je refais d'abord un résultat publié, je teste sur des données qui n'ont pas servi à construire le modèle, je chiffre l'erreur et j'écris les limites. Mon mémoire de master, en 2028, reprendra l'un de ces problèmes avec une entreprise du secteur.
 
-## Projets de BUT
+## Ce que j'ai déjà fait
 
-- [Phénix : la mer ou le rail pour l'automobile](https://github.com/Youssouf55/sae4-transport-international-automobile), flux multimodaux Marseille–Le Mans, maritime contre ferroviaire.
-- [BES Électroménager : remplir un conteneur](https://github.com/Youssouf55/sae2-optimisation-chargement-bes), chargement d'un 40 pieds et politique de réapprovisionnement.
-- [Plumbingstuff : un entrepôt en France après le Brexit](https://github.com/Youssouf55/sae6-implantation-entrepot-post-brexit), choix de site et cahier des charges WMS.
-- [Tableau de bord d'entrepôt](https://github.com/Youssouf55/tableau-de-bord-kpis-entrepot), taux de service et productivité sur 25 à 30 tournées par jour.
-
-Les autres dépôts reprennent des exercices de cours : stocks, tournées, externalisation, audit de chaîne.
+- [Phénix : la mer ou le rail pour l'automobile](https://github.com/Youssouf55/sae4-transport-international-automobile). Comparaison chiffrée de deux chaînes entre Marseille et Le Mans : 751 € par conteneur par la mer, 837 € par le rail.
+- Décathlon : trente conteneurs de Shanghai à Rouvignies par Le Havre, du choix de l'armateur aux documents de douane.
+- Un tableau de bord pour piloter la plateforme U Logistique d'Ifs : taux de service, écarts de stock, coût par tournée, sur 25 à 30 tournées par jour (Excel, VBA, Power BI).
 
 ## Parcours
 
